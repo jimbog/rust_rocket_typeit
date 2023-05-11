@@ -1,1 +1,0 @@
-just `cargo run`
